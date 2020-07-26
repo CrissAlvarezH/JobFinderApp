@@ -1,16 +1,8 @@
-# curso_job_finder_app
 
-A new Flutter project.
+# Job Finder App Preview
+### [Watch Video tutorial on Youtube](https://youtu.be/DAroZ2-OAaY)
+<img alt="Preview" width="300px" src="https://github.com/CrissAlvarezH/JobFinderApp/blob/master/preview/job_find_app.jpg" />
 
-## Getting Started
+### [Design by Julia Nasser](https://flutter.dev/docs/cookbook)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
